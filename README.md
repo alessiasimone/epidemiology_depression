@@ -5,4 +5,4 @@ With Spurlock’s journey as a cautionary tale, I investigate the potential effe
 dietary choices on health outcomes, drawing valuable insights from a dataset encompassing patients with measured indicators of arthritis, food habits, and depression.
 By examining these factors, we seek to shed light on the multifaceted nature of arthritis and its associated health consequences, aiming to contribute to public health interventions and strategies.
 Furthermore, this analysis prompts us to critically examine broader societal factors that contribute to the soaring obesity rates in the United States, such as food accessibility, advertising influence, and their impact on individuals’ well-being, particularly in the context of public health and young populations.
-The dataset [Minamino et al., 2021] was collected through a self-reported questionnaire in addition to the KURAMA dataset.
+The dataset [Minamino et al., 2021] was collected through a self-reported questionnaire in addition to the KURAMA dataset.
